@@ -1,0 +1,38 @@
+input {
+   border: 1px solid #cccccc; 
+   border-radius: 3px; 
+   -webkit-border-radius: 3px; 
+   -moz-border-radius: 3px; 
+   -khtml-border-radius: 3px; 
+   background: #ffffff !important; 
+   outline: none; 
+   height: 20px; 
+   width: 120px; 
+   color: #00C5CD; 
+   font-size: 11px; 
+   font-family: Tahoma;
+}
+
+.nam {
+    color: #FFE4C4;
+    font-family: 'Bubblegum Sans', cursive;
+    font-weight: bold;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+body {
+    margin-top: 66px;
+}
+
+.ipi {
+    margin-left: 130px;
+}
+
+.iki {
+    margin-left: 800px;
+}
+
+.autorize {
+    margin-top: 400px;
+}
